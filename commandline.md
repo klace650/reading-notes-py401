@@ -39,6 +39,6 @@ More things:
 
 ``~`` (tilde): used to refer to the home directory  
 ``.`` (dot) : reference to pwd  
-``..``(dotdot) : reference to parent directory
+``..``(dotdot) : reference to parent directory  
 ``cd``  - change directory, no args takes you to home directory  
 ``tab`` - will auto complete stuff thats been used recently  
