@@ -19,6 +19,16 @@
 
 Suggested to us pytest to execute the tests
 
-# The Cycle
+## The Cycle
+
+Made of three steps:  
+1. Write a  unit test to make it fail
+2. Write a passing feature
+3. Refactor - first version doesn't need to be perfect.
 
 # [Recursion Vidya](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
+
+Math view of recursion - top down thinking:
+  - uhhh something about stopping an endless loop defining itself?
+
+Factorial ex: factorial()
