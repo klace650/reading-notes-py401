@@ -54,10 +54,11 @@ func()
 - Big O is a way to compare
 - Gives you worst case scenario
 
-Different Types of Complexity:
+## Different Types of Complexity:
 
 - Constant
 - Log
 - Linear
 - Log Linear
 - Polynomial
+
