@@ -11,3 +11,4 @@
 1. [Class 06](read06.md) - May 24 
 1. [Class 07](read07.md) - May 25 
 1. [Class 07](read08.md) - May 26 
+1. [Class 27](read27.md) - June 22
